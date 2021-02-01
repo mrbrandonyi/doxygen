@@ -3,7 +3,7 @@
  * @brief This is a demonstration for homework 05 doxygen.
  * @details This project shows Doxygen, Cmake, and Github Pages working together.
  * @author Brandon Yi
- * @date 1/31/2021
+ * @date 2021 February 01
  * 
  */
 
